@@ -1,0 +1,42 @@
+GIT
+
+# Start a project 
+git init
+
+
+
+===================================================
+LINUX / BASH
+
+# navigate between directories: cd .
+# printing the content of a file: cat
+# create one or multiple directories: mkdir
+# create a new empty file in a specific directory: touch
+# full path of your current working directory: pwd
+# summarizes the status of all running processes in your Linux system at a specific time: ps -a
+# move a file or folder to another location: mv
+# change the permissions of files or directories: chmod
+# copy files from your current directory to another folder: cp
+# change the ownership of files, directories, or symbolic links: chown
+# command deletes files from a directory: rm -f to forcethe remove of the folder and -i to flag a confirmation message before removal
+# content of a folder: ls -a  
+# superuser do or sudo enables non-root users who are part of the sudo group to execute administrative commands: sudo               
+# delete empty directories: rmdir
+# clear terminal: clear
+# nano, vi, and jed commands let you edit files: nano
+# to see a file: code
+# zip and unzip files: zip and unzip
+# lets you search specific lines from a file using keywords: grep
+# sends packets to a target server and fetches the responses: ping
+
+==============================================
+VENV
+
+# Create a virtual environment 
+python -m venv </path/to/new/virtual/environment>
+
+# Activate the environment (in windows)
+source /venv/Script/Activate
+
+# Deactivate the environment
+deactivate
