@@ -1,0 +1,12 @@
+python
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+psycopg2
+mysql-connector-python
+saspy
+simple_salesforce
+boto3
+python-dotenv

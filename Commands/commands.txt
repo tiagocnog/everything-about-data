@@ -40,3 +40,6 @@ source /venv/Script/Activate
 
 # Deactivate the environment
 deactivate
+
+# To run the requirements file
+pip install -r /path/to/requirements.txt
