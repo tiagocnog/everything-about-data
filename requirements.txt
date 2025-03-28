@@ -10,3 +10,5 @@ saspy
 simple_salesforce
 boto3
 python-dotenv
+pymongo
+requests
