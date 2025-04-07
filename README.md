@@ -3,7 +3,6 @@ This is a repository that serves to gather knowledge of data and others subjects
 
 
 ## Author
-
 This repository is created by: Tiago Calio Nogueira
 
 
