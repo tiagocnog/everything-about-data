@@ -16,3 +16,4 @@ torch>=2.6.0+cu124
 torchvision>=2.6.0+cu124
 torchaudio>=0.21.0+cu124
 datasets
+tokenizers
